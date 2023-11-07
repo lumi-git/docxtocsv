@@ -5,7 +5,7 @@ ultra light script to convert all tables of a docx document to cs
 
 First install the requirements file with pip
 
-python -m pip install -r requirements.txt
+>python -m pip install -r requirements.txt
 
 OR
 
