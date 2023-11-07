@@ -13,7 +13,7 @@ OR
 
 ## How to run 
 
-put your file in the root folder of the app
+put your .docx file in the root folder of the app
 
 modify in the script the name of the document to convert
 
